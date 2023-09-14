@@ -1,5 +1,5 @@
 ### majorana-repo
-Repo created to post codes developed during my monograph as a requirement to bachelor degree in Physics
+Repo created to post codes developed during my thesis as a requirement to bachelor degree in Physics
 
 # Outline
 Motivated by new methods of quantum computation we tried to study a hybrid system based on a semiconductor-supercondutor junction (SNS). 
